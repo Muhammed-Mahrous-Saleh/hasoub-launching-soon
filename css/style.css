@@ -32,10 +32,6 @@ header .brand {
     border-bottom: 5px solid #81858a6e;
 }
 
-header .brand .logo img {
-    /* width: 100px; */
-}
-
 header .heading-page h1 {
     font-size: 60px;
     font-weight: bold;
